@@ -1,0 +1,8 @@
+C:\Users\oliverp\Documents\Repos\HybridCalc\HybridCalc\HybridCalculator\bin\Debug\HybridCalculator.exe.config
+C:\Users\oliverp\Documents\Repos\HybridCalc\HybridCalc\HybridCalculator\bin\Debug\HybridCalculator.exe
+C:\Users\oliverp\Documents\Repos\HybridCalc\HybridCalc\HybridCalculator\bin\Debug\HybridCalculator.pdb
+C:\Users\oliverp\Documents\Repos\HybridCalc\HybridCalc\HybridCalculator\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\oliverp\Documents\Repos\HybridCalc\HybridCalc\HybridCalculator\obj\Debug\HybridCalculator.csprojResolveAssemblyReference.cache
+C:\Users\oliverp\Documents\Repos\HybridCalc\HybridCalc\HybridCalculator\obj\Debug\HybridCalculator.csproj.CoreCompileInputs.cache
+C:\Users\oliverp\Documents\Repos\HybridCalc\HybridCalc\HybridCalculator\obj\Debug\HybridCalculator.exe
+C:\Users\oliverp\Documents\Repos\HybridCalc\HybridCalc\HybridCalculator\obj\Debug\HybridCalculator.pdb
